@@ -19,7 +19,7 @@ By building interoperable, open tools, we make parish life **welcoming, connecte
 
 **Join The Mission and let's build!**
 
--- [Rhyan.dev](https://rhyan.dev)
+
 
 ## Catalog Overview
 
@@ -81,6 +81,8 @@ If you discover a vulnerability, **do not open a public issue**.
 Email: **security@techsaints.dev**. See `SECURITY.md`.
 
 ---
+
+Contact: [Rhyan.dev](https://rhyan.dev)
 
 ## License
 
