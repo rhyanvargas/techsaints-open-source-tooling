@@ -1,6 +1,6 @@
 # TechSaints.dev — Open-Source Tooling
 
-Catholic technologists, creatives, and builders advancing the Church’s mission through **open, interoperable software**.
+**Catholic technologists, creatives, and builders advancing the Church’s mission through **open, interoperable software**.**
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
